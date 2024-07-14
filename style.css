@@ -1,0 +1,78 @@
+#candle{
+    width: 150px;
+    height:150px;
+}
+
+#charger{
+    width: 150px;
+    height:150px;
+}
+
+#keyboard{
+    width: 150px;
+    height:150px;
+}
+
+#notebook{
+    width: 150px;
+    height:150px;
+}
+
+#pen{
+    width: 150px;
+    height:150px;
+}
+
+#scissor{
+    width: 150px;
+    height:150px;
+}
+
+#tennis{
+    width: 150px;
+    height:150px;
+}
+
+#candlediv, #chargerdiv,#keyboarddiv,#notebookdiv,#pendiv,#scissordiv,#tennisdiv{
+    background-color: grey;
+    border-radius: 50px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.5)
+    
+}
+
+#mn1, #mn2, #mn3, #mn4, #mn5, #mn6, #mn7, #mn8{
+    color: hotpink;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#g1, #g2, #g3, #g4, #g5, #g6, #g7{
+    color:midnightblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h5{
+    color:skyblue;
+    background-color:white;
+    border-radius: 50px;
+    height: 30px;
+    line-height: 30px; 
+    text-align: center;
+    font-family:monospace;
+   /* display:flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap; */
+}
+
+h5 span {
+    margin: 0 10px; 
+}
+.mini_result{
+    color:white;
+    text-align: center;
+}
+
+#title{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:maroon;
+}
